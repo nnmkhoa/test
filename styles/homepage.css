@@ -1,7 +1,7 @@
 /* CSS for landing page*/
 
 body.landingpage {
-    background-image: url(/images/dog.jpg);
+    background-image: url(/test/images/dog.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
