@@ -1,0 +1,69 @@
+.content {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.contactpage {
+    width: 40%;
+    border: solid 2px black;
+    border-radius: 5px;
+}
+
+.contentinfo {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contentinfotext {
+    width: 30%;
+    font-size: 15px;
+}
+
+.contenttitle {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    
+}
+
+.contactpage img {
+    width: 300px;
+}
+
+.contactform {
+    width: 40%;
+    margin-top: 30px;
+    display:flex;
+    flex-direction: column;
+}
+
+.formtitle {
+    display: flex;
+    justify-content: center;
+}
+
+.formcontents{
+    padding-left: 2px;
+}
+
+input{
+    width: 99%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.formbutton {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+button {
+    padding: 10px 40px;
+    border-radius: 5px;
+}
